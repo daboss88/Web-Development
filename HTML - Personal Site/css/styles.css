@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+}
+
+hr{
+    /* background-color: blueviolet; */
+    width: 10%;
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color: grey;
+}
+
+h1 {
+    color: brown;
+}
+
+h3 {
+    color: coral;
+}
