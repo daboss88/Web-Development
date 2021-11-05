@@ -1,0 +1,28 @@
+/* *********** TAG SELECTORS ***************** */
+
+h1 {
+    color: coral;
+    font-size: 100px;
+}
+
+/* pseudo tags */
+img:hover {
+    background-color: goldenrod;
+}
+
+/* *********** CLASS SELECTORS ***************** */
+
+.broc {
+    background-color: red;
+}
+
+.bacon {
+    background-color:skyblue;
+}
+
+
+/* *********** ID SELECTORS ***************** */
+
+#heading {
+    color: cornflowerblue;
+}
